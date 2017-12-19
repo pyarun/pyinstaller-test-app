@@ -1,0 +1,13 @@
+altgraph==0.15
+amqp==2.2.2
+billiard==3.5.0.3
+celery==4.1.0
+dis3==0.1.2
+Django==1.11
+future==0.16.0
+kombu==4.1.0
+macholib==1.9
+pefile==2017.11.5
+PyInstaller==3.4.dev0+ab8fd9753
+pytz==2017.3
+vine==1.1.4
